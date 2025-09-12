@@ -1,7 +1,7 @@
 # MAC0214
 #### Todos os códigos e treinamentos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)
 
-### Tempo total: 35 horas
+### Tempo total: 40 horas
 
 ### 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
 
@@ -20,3 +20,5 @@
 ### 08/09: [Codeforces Round 1048 (Div. 2)](https://codeforces.com/contest/2139) - 3 horas
 
 ### 09/09: [Codeforces Round 1049 (Div. 2)](https://codeforces.com/contest/2140) - 2 horas
+
+### 11/09: [2023-2024 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104736) - 5 horas
