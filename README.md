@@ -28,7 +28,7 @@ Ficamos em 2º lugar e conseguimos uma vaga para subreg!
 
 ## 11/09: [2023-2024 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104736) - 5 horas
 
-## 13/09: [Fase Subregional da Maratona de Programação :balloon:]() - 5 horas
+## 13/09: [Fase Subregional da Maratona de Programação :balloon:](https://codeforces.com/gym/106073) - 5 horas
 
 Meu time é o ***Here's my number: 998244353, so call me maybe***  
 Ficamos em 21º lugar do país e 1º da sede, passamos para nacional! :tada:
