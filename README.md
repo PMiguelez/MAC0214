@@ -1,24 +1,34 @@
 # MAC0214
-#### Todos os códigos e treinamentos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)
 
-### Tempo total: 40 horas
+Todos os códigos e treinos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)  
+:balloon: = participação oficial em time
 
-### 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
+## Tempo total: 45 horas
 
-### 16/08: [Seletiva USP](https://codeforces.com/gym/106039) - 5 horas
+## 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
 
-### 26/08: [Codeforces Round 1045 (Div 2)](https://codeforces.com/contest/2134) - 2 horas
+## 16/08: [Seletiva USP :balloon:](https://codeforces.com/gym/106039) - 5 horas
 
-### 28/08: [Codeforces Round 1046 (Div 2)](https://codeforces.com/contest/2136) - 3 horas
+Meu time é o ***Here's my number: 998244353, so call me maybe***  
+Ficamos em 2º lugar e conseguimos uma vaga para subreg!
 
-### 29/08: [2025 Argentinian Programming Tournament (TAP)](https://codeforces.com/gym/106054) - 5 horas
+## 26/08: [Codeforces Round 1045 (Div 2)](https://codeforces.com/contest/2134) - 2 horas
 
-### 01/09: [XII Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/105936) - 5 horas
+## 28/08: [Codeforces Round 1046 (Div 2)](https://codeforces.com/contest/2136) - 3 horas
 
-### 07/09: [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102346) - 5 horas
+## 29/08: [2025 Argentinian Programming Tournament (TAP)](https://codeforces.com/gym/106054) - 5 horas
 
-### 08/09: [Codeforces Round 1048 (Div. 2)](https://codeforces.com/contest/2139) - 3 horas
+## 01/09: [XII Maratona Mineira de Programação](https://codeforces.com/group/YgJmumGtHD/contest/105936) - 5 horas
 
-### 09/09: [Codeforces Round 1049 (Div. 2)](https://codeforces.com/contest/2140) - 2 horas
+## 07/09: [2019-2020 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102346) - 5 horas
 
-### 11/09: [2023-2024 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104736) - 5 horas
+## 08/09: [Codeforces Round 1048 (Div. 2)](https://codeforces.com/contest/2139) - 3 horas
+
+## 09/09: [Codeforces Round 1049 (Div. 2)](https://codeforces.com/contest/2140) - 2 horas
+
+## 11/09: [2023-2024 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104736) - 5 horas
+
+## 13/09: [Fase Subregional da Maratona de Programação :balloon:]() - 5 horas
+
+Meu time é o ***Here's my number: 998244353, so call me maybe***  
+Ficamos em 21º lugar do país e 1º da sede, passamos para nacional! :tada:
