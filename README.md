@@ -3,7 +3,7 @@
 Todos os códigos e treinos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)  
 :balloon: = participação oficial em time
 
-## Tempo total: 57 horas
+## Tempo total: 59 horas
 
 ## 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
 
@@ -42,3 +42,5 @@ Ficamos em 21º lugar do país e 1º da sede, passamos para nacional! :tada:
 Não pudemos participar com nossas contas, porque já tinhamos começado uma virtual participation por engano antes, então usamos a conta [conta_legitma_n_eh_smurf](https://codeforces.com/gym/101908/standings/participant/219653593#p219653593)
 
 ## 20/09: [Codeforces Global Round 29 (Div. 1 + Div. 2)](https://codeforces.com/contest/2147) - 3 horas
+
+## 21/09: [Codeforces Round 1052 (Div. 2)](https://codeforces.com/contest/2146) - 2 horas
