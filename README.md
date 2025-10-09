@@ -3,7 +3,7 @@
 Todos os códigos e treinos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)  
 :balloon: = participação oficial em time
 
-## Tempo total: 79 horas
+## Tempo total: 84 horas
 
 ## 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
 
@@ -54,3 +54,5 @@ Não pudemos participar com nossas contas, porque já tinhamos começado uma vir
 ## 03/10: [2021-2022 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/103640) - 5 horas
 
 ## 06/10: [Educational Codeforces Round 183 (Rated for Div. 2)](https://codeforces.com/contest/2145) - 2 horas
+
+## 08/10: [2022-2023 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104252) - 5 horas
