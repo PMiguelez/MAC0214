@@ -3,7 +3,7 @@
 Todos os códigos e treinos podem ser encontrados na minha conta do codeforces: [PMiguelez](https://codeforces.com/profile/PMiguelez)  
 :balloon: = participação oficial em time
 
-## Tempo total: 84 horas
+## Tempo total: 129 horas
 
 ## 06/08: [2020-2021 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/102861) - 5 horas
 
@@ -56,3 +56,30 @@ Não pudemos participar com nossas contas, porque já tinhamos começado uma vir
 ## 06/10: [Educational Codeforces Round 183 (Rated for Div. 2)](https://codeforces.com/contest/2145) - 2 horas
 
 ## 08/10: [2022-2023 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/104252) - 5 horas
+
+## 09/10: [Codeforces Round 1056 (Div. 2)](https://codeforces.com/contest/2155) - 2 horas
+
+## 10/10: [2024-2025 ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/105505) - 5 horas
+
+## 14/10: [2024-2025 ICPC German Collegiate Programming Contest (GCPC 2024)](https://codeforces.com/gym/105394) - 5 horas
+
+## 15/10: [2024-2025 ICPC Southwestern European Regional Contest (SWERC 2024)](https://codeforces.com/gym/105677) - 5 horas
+
+## 19/10: [Codeforces Round 1060 (Div. 2)](https://codeforces.com/contest/2154) - 2 horas
+
+## 20/10: [Latinoware 2025 (maratona da Unioste em que fui tester)](https://codeforces.com/group/Y26kEzEtua/contest/644607) - 5 horas
+
+## 22/10: [2013-2014 ACM-ICPC Brazil Subregional Programming Contest](https://codeforces.com/gym/101473) - 5 horas
+
+## 31/10: [2019-2020 ACM-ICPC Latin American Regional Programming Contest](https://codeforces.com/gym/102428) - 5 horas
+
+## 08/11: [Final Nacional da Maratona de Programação :balloon:](https://codeforces.com/gym/106178) - 5 horas
+
+Meu time é o ***Here's my number: 998244353, so call me maybe***  
+Ficamos em 26º lugar da américa latina, 10º do país (medalha de prata) e passamos para a final da américa latina! :tada:
+
+## 10/11: [Codeforces Round 1063 (Div. 2)](https://codeforces.com/contest/2163) - 2 horas
+
+## 14/11: [Educational Codeforces Round 184 (Rated for Div. 2)](https://codeforces.com/contest/2169) - 2 horas
+
+## 16/11: [Codeforces Round 1064 (Div. 2)](https://codeforces.com/contest/2166) - 2 horas
